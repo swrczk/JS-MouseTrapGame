@@ -1,6 +1,6 @@
 # MouseTrap
 
-Reconstruction of the Atari game in pure JS, project from high school.
+Reconstruction of the Atari game in pure JS, project from high school (2017).
 
 ##Preview
 Original gameplay available here: https://youtu.be/Ufays5N8K9Y
